@@ -1,0 +1,22 @@
+{
+    "name": "Pilotage Grove JOYSTICK",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "ThumbJoystick": "github:microbit-grove-library/pxt-thumbjoystick#0a33587319a67a18cdd175e154b16bc70b78cafc"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
